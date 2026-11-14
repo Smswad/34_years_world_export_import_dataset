@@ -19,11 +19,11 @@
 
 | Student ID | Student Name | Role / Assigned Tasks | Status |
 | :--- | :--- | :--- | :--- |
-| **2023-2-60-036** | **Shahil Mahmud Swad** | *(To be assigned)* | Active |
-| **2024-1-60-073** | **Arefin Bashar Ashik** | *(To be assigned)* | Active |
-| **2024-1-60-132** | **Alif Iftekhar Hasan Iftie** | *(To be assigned)* | Active |
-| **2024-1-60-133** | **Mahmuda Mushtari Uddin** | *(To be assigned)* | Active |
-| **2024-1-60-138** | **Farhan Islam** | *(To be assigned)* | Active |
+| **2023-2-60-036** | **Shahil Mahmud Swad** | Group Leader, Introduction, Dataset Description & Task 1 | Active |
+| **2024-1-60-138** | **Farhan Islam** | Task 2 (Central Tendency & Dispersion) & Task 3 (Distribution, Shape & Visualizations) | Active |
+| **2024-1-60-132** | **Alif Iftekhar Hasan Iftie** | Task 4 (Categorical Variable Analysis & Visualizations) | Active |
+| **2024-1-60-073** | **Arefin Bashar Ashik** | Task 5 (Relationships Between Variables & Visualizations) | Active |
+| **2024-1-60-133** | **Mahmuda Mushtari Uddin** | Task 6 (Data Quality Assessment), Task 7 (Key Insights & Modeling) & Conclusion | Active |
 
 ---
 
@@ -47,7 +47,7 @@ The analysis is fully implemented in [`dataset_exploration_initial_analysis.ipyn
 ├── Task 2: Central Tendency & Dispersion Analysis (Mean vs. Median Skewness)
 ├── Task 3: Distribution & Shape Analysis (Log Histograms, Boxplots & IQR Outliers)
 ├── Task 4: Categorical Variable Analysis (Top Partners & Global Trade Trajectory)
-├── Task 5: Relationships Between Variables (Export vs Import Scatterplots & Heatmap)
+├── Task 5: Relationships Between Variables (Export vs Import Scatterplots & Correlation Analysis)
 ├── Task 6: Data Quality Assessment (Missing Value Audits & Anomaly Verification)
 └── Task 7: Key Insights & Future Predictive Modeling Formulations
 ```
@@ -75,7 +75,7 @@ The analysis is fully implemented in [`dataset_exploration_initial_analysis.ipyn
 5. **Task 5: Relationships Between Variables**
    - **Export vs. Import Correlation ($r = 0.994$):** Demonstrates near-perfect linear scaling; high-exporting nations simultaneously act as the world's primary import absorbers.
    - **Applied (AHS) vs. MFN Tariffs ($r = 0.530$):** Shows that national preferential tariff reductions are structurally calibrated against baseline MFN commitments.
-   - Annotated Seaborn correlation heatmap across all key macroeconomic features.
+   - **Bivariate Scatterplots & Correlation Matrix:** Evaluates trade reciprocity and the negative relationship between protective tariffs and gross commercial exchange ($r = -0.073$).
 
 6. **Task 6: Data Quality Assessment**
    - **Duplicate Records:** `0` duplicate rows (100% unique records).

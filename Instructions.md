@@ -18,11 +18,11 @@
 
 | Student ID | Student Name | Assigned Tasks |
 | :--- | :--- | :--- |
-| **2023-2-60-036** | Shahil Mahmud Swad | *(To be assigned)* |
-| **2024-1-60-073** | Arefin Bashar Ashik | *(To be assigned)* |
-| **2024-1-60-132** | Alif Iftekhar Hasan Iftie | *(To be assigned)* |
-| **2024-1-60-133** | Mahmuda Mushtari Uddin | *(To be assigned)* |
-| **2024-1-60-138** | Farhan Islam | *(To be assigned)* |
+| **2023-2-60-036** | Shahil Mahmud Swad | Group Leader, Introduction, Dataset Description & Task 1 |
+| **2024-1-60-138** | Farhan Islam | Task 2 (Central Tendency & Dispersion) & Task 3 (Distribution, Shape & Visualizations) |
+| **2024-1-60-132** | Alif Iftekhar Hasan Iftie | Task 4 (Categorical Variable Analysis & Visualizations) |
+| **2024-1-60-073** | Arefin Bashar Ashik | Task 5 (Relationships Between Variables & Visualizations) |
+| **2024-1-60-133** | Mahmuda Mushtari Uddin | Task 6 (Data Quality Assessment), Task 7 (Key Insights & Modeling) & Conclusion |
 
 ---
 
