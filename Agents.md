@@ -1,10 +1,10 @@
-# Group 7 Contributor & Agent Guidelines (Agents.md)
+# Group 7 (TariffTrackers) Contributor & Agent Guidelines (Agents.md)
 
-This document establishes the collaboration rules, code standards, and workflow protocols for **Group 7** working in the single shared Jupyter Notebook (`dataset_exploration_initial_analysis.ipynb`).
+This document establishes the collaboration rules, code standards, and workflow protocols for **Group 7 (TariffTrackers)** working in the single shared Jupyter Notebook (`dataset_exploration_initial_analysis.ipynb`).
 
 ---
 
-## 1. Group 7 Roster & Responsibility Matrix
+## 1. Group 7 (TariffTrackers) Roster & Responsibility Matrix
 
 | Student ID | Student Name | Role / Assigned Tasks | Status |
 | :--- | :--- | :--- | :--- |

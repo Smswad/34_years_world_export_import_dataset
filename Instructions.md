@@ -3,7 +3,7 @@
 ## 1. Project Overview & Deadlines
 - **Course:** CSE303 (Statistics & Data Analysis)
 - **Instructor:** Shartaz Sajid Nahid
-- **Team Number:** Group 7
+- **Team Name & Number:** Group 7 (TariffTrackers)
 - **Project Title:** World Export & Import Dataset (1989 - 2023) — Initial Exploration & Analysis
 - **Dataset Source:** [Kaggle: World Export and Import Dataset](https://www.kaggle.com/datasets/muhammadtalhaawan/world-export-and-import-dataset)
 - **Presentation Date:** 15 November (Max 10 minutes per group, all members must present)
