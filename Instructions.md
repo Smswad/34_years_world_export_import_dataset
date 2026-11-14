@@ -26,7 +26,24 @@
 
 ---
 
-## 3. Dataset Characteristics
+## 3. Environment Setup & Required Libraries
+Before executing the notebook or writing code, every contributor (and any Agentic AI assistant used) must ensure all required packages are installed in the active Python environment or Jupyter kernel.
+
+### Quick Install Command:
+```bash
+pip install -r requirements.txt
+```
+or directly:
+```bash
+pip install pandas numpy matplotlib seaborn scipy
+```
+
+> **Note for Agentic AI / AI Assistants:**  
+> When an agent initializes or executes code for this project, it must verify the environment and install any missing packages using the command above before executing notebook cells.
+
+---
+
+## 4. Dataset Characteristics
 - **Observations (Rows):** 8,096 records
 - **Features (Columns):** 33 variables
 - **Time Horizon:** 1988 – 2021 (Global trade coverage across 200+ partner countries and regional blocs)
@@ -38,7 +55,7 @@
 
 ---
 
-## 4. Step-by-Step Task Breakdown
+## 5. Step-by-Step Task Breakdown
 
 ### Task 1: Dataset Description
 - **Real-World Context:** Global bilateral trade flows, tariff structures, and economic growth patterns.
@@ -93,7 +110,7 @@
 
 ---
 
-## 5. Report & Presentation Deliverable Checklist
+## 6. Report & Presentation Deliverable Checklist
 - [ ] **Cover Page:** Course title, Group 7, Project Title, and all 5 member names & IDs.
 - [ ] **Index / Table of Contents:** Clear section navigation matching Tasks 1–7.
 - [ ] **Data Tables:** Numerical findings rendered in tables as requested by instructor.

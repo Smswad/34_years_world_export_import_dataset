@@ -18,7 +18,24 @@ This document establishes the collaboration rules, code standards, and workflow 
 
 ---
 
-## 2. Single-Notebook Collaboration Rules
+## 2. Environment & Dependency Setup (For Contributors & AI Agents)
+
+Before starting work or executing the notebook, all contributors and Agentic AI assistants must ensure the required libraries are installed:
+
+```bash
+pip install -r requirements.txt
+```
+Or install directly:
+```bash
+pip install pandas numpy matplotlib seaborn scipy
+```
+
+> **Rule for Agentic AI Assistants:**  
+> When an agent initializes in this repo, it must automatically check if `pandas`, `numpy`, `matplotlib`, `seaborn`, and `scipy` are present, and run the install command above if any are missing.
+
+---
+
+## 3. Single-Notebook Collaboration Rules
 
 Because the entire team works inside `dataset_exploration_initial_analysis.ipynb`, follow these rules strictly to avoid merge conflicts and code breakage:
 
@@ -54,7 +71,7 @@ Every single code cell must begin with the standard contributor header block:
 
 ---
 
-## 3. Git Version Control Workflow
+## 4. Git Version Control Workflow
 
 1. **Pull Before Work:**
    Always sync your local branch with GitHub before editing the notebook:
